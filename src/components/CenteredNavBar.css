@@ -1,0 +1,37 @@
+/* CenteredNavBar.css */
+.centered-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 0 20px;
+}
+
+.centered-nav .logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.centered-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.centered-nav li {
+  margin: 0 15px;
+}
+
+.centered-nav a {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+  display: block;
+}
+
+.centered-nav a:hover {
+  background-color: #575757;
+}
