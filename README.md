@@ -1,3 +1,3 @@
 # Navbars
 Created with CodeSandbox
-![Alt text](assets/image.png)
+![screenshot](Screenshot 2024-08-16 094005.png)
